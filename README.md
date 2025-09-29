@@ -1,2 +1,2 @@
-# pt1.1
-Este repositorio es para la practica de m06
+M06 - Desenvolupament web en entorn client
+Eduardo Rubio - Pt1.1
